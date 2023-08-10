@@ -26,7 +26,7 @@ Eu usei as seguintes tecnologias para desenvolver este projeto: HTML/CSS
 - Banco de dados: **[Sheet Monkey](https://api.sheetmonkey.io/form/cUihEvgYnbmnc58Q4sCGmB)**
 - Protótipo: **[Figma](https://www.figma.com/)** → **[Protótipo (Projeto)](https://www.figma.com/file/0FRiZbs30dfSniazKiM1rM/Desafio-1---Desenvolva-uma-Landing-Page?node-id=1%3A3&mode=dev)**
 - Editor: **[Visual Studio Code](https://code.visualstudio.com/)** 
-- Fontes: **[OpenSans](https://fonts.google.com/specimen/Open+Sans)**
+- Fontes: **[Inter](https://fonts.google.com/specimen/Inter?query=inter)**
 - Versionamento: **[Git](https://git-scm.com)**
 
 
@@ -57,8 +57,12 @@ Este projeto tem somente uma parte que é:
 
 1. Somente o trabalho front-end foi necessario para o desenvolvimento da pagina web
 
+**Site e Planilha**   
+[Planilha](https://docs.google.com/spreadsheets/d/1sXcO_VqtaPH-yhJuSUJW3msZdrgwL2xtBZw6E8nAT6k/edit#gid=0) <br>
+[Site](https://desafio-1-dnc-samuell.netlify.app)
+
 # Entre em contato
 
-**Linkedin**: https://www.linkedin.com/in/samuel-medeiros-548378236/
+**[Linkedin](https://www.linkedin.com/in/samuel-medeiros-548378236/)**
 
 Desenvolvido por **Samuel Medeiros** 👋🏻
