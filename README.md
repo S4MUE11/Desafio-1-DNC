@@ -16,7 +16,7 @@ Este projeto é o primeiro desafio no qual era preciso fazer uma pagina para uma
 
 ## Tecnologias
 
-Eu usei as seguintes tecnologias para desenvolver este projeto: HTML/CSS
+Eu usei as seguintes tecnologias para desenvolver este projeto: **HTML e CSS**
 #### **Website** ([HTML](https://html.com/) + [CSS](https://pt.wikipedia.org/wiki/Cascading_Style_Sheets) ) 
 
 #### **API** 
@@ -32,8 +32,9 @@ Eu usei as seguintes tecnologias para desenvolver este projeto: HTML/CSS
 
 ## Layout
 
-O layout da aplicação está disponível no Figma:
+O layout da Landing Page está disponível no [Figma](https://www.figma.com/file/0FRiZbs30dfSniazKiM1rM/Desafio-1---Desenvolva-uma-Landing-Page?node-id=1%3A3&mode=dev)
 
+## Prints do Site finalizado
 <a href="https://www.figma.com/file/0FRiZbs30dfSniazKiM1rM/Desafio-1---Desenvolva-uma-Landing-Page?node-id=1%3A3&mode=dev">
 
 ![Captura de tela 2023-08-10 163311](https://github.com/S4MUE11/Desafio-1-DNC/assets/141192195/574b24b3-c857-4e0c-8c11-a4a5a7a74cf4)
@@ -49,13 +50,13 @@ Afim de facilitar a organização e manutenção do código, foi definido um pad
 
 Todos os componentes criados vão seguir uma mesma estrutura de organização: <br>
 
-→ index.html: Responsável pela base do site; <br />
-→ styles.css: Responsável por toda estilização dos componentes e de toda a pagina; <br />
+→ **index.html:** Responsável pela base do site; <br />
+→ **styles.css:** Responsável por toda estilização dos componentes e de toda a pagina; <br />
 
 
-Este projeto tem somente uma parte que é:
+Este projeto tem somente uma parte:
 
-1. Somente o trabalho front-end foi necessario para o desenvolvimento da pagina web
+1. O trabalho front-end foi necessario para o desenvolvimento da pagina web
 
 **Site e Planilha**   
 [Planilha](https://docs.google.com/spreadsheets/d/1sXcO_VqtaPH-yhJuSUJW3msZdrgwL2xtBZw6E8nAT6k/edit#gid=0) <br>
