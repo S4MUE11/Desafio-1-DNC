@@ -1,4 +1,4 @@
-# Desafio 1 DNC
+# Desafio 1
 
 ## Tópicos
 
@@ -12,7 +12,7 @@
 
 ## Sobre o projeto
 
-Este projeto é o primeiro desafio no qual era preciso fazer uma pagina para uma empresa de arquitetura, e que guardasse nome e email de possiveis clientes e para isso usei o sheet monkey para guardar os dados atraves de uma planilha que esta ligada a parte do formulario na pagina, estou apresentando para os avaliadores do curso de programação da Escola DNC.
+Este projeto é o primeiro desafio no qual era preciso fazer uma pagina para uma empresa de arquitetura, e que guardasse nome e email de possiveis clientes e para isso usei o sheet monkey para guardar os dados atraves de uma planilha que esta ligada a parte do formulario na pagina.
 
 ## Tecnologias
 
